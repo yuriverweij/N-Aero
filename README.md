@@ -1,5 +1,10 @@
 ### Hi there 👋
+I'm Yuri and I'm a Test Automation Engineer from the Netherlands, Arnhem area.
 
+ 
+[![Yuri's github stats](https://github-readme-stats.vercel.app/api?username=N-Aero)](https://github.com/N-Aero)
+
+[![Yuri's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Aero&layout=compact)](https://github.com/N-Aero)
 <!--
 **N-Aero/N-Aero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
